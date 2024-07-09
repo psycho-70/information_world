@@ -8,7 +8,7 @@ A comprehensive website featuring multiple pages (home, notes, login, contact, b
 ## Mobile Version Screenshots
 
 <div align="center">
-  <img src="/public/readmi/1.PNG" width="200" />
+  <img  src="/public/readmi/1.PNG" width="200" height ="300" />
   <img src="/public/readmi/2.PNG" width="200" />
   <img src="/public/readmi/3.PNG" width="200" />
 </div>
