@@ -1,4 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PROJECTS
+
+## Information World
+**Technologies:** Next.js, MongoDB
+
+A comprehensive website featuring multiple pages (home, notes, login, contact, blog) that includes a login system with Google and GitHub OAuth, and stores user login information in a MongoDB database. Implemented NextAuth for authentication and utilized MongoDB to manage user data.
+
+## Mobile Version Screenshots
+
+<div align="center">
+  <img src="/public/readmi/1.PNG" width="200" />
+  <img src="/public/readmi/2.PNG" width="200" />
+  <img src="/public/readmi/3.PNG" width="200" />
+</div>
+<div align="center">
+  <img src="/public/readmi/4.PNG" width="200" />
+  <img src="/public/readmi/5.PNG" width="200" />
+  <img src="/public/readmi/6.PNG" width="200" />
+</div>
+<div align="center">
+  <img src="/public/readmi/7.PNG" width="200" />
+  <img src="/public/readmi/8.PNG" width="200" />
+  <img src="/public/readmi/9.PNG" width="200" />
+</div>
+<div align="center">
+  <img src="/public/readmi/10.PNG" width="200" />
+</div>
+
 
 ## Getting Started
 
