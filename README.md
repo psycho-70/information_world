@@ -9,21 +9,21 @@ A comprehensive website featuring multiple pages (home, notes, login, contact, b
 
 <div align="center">
   <img  src="/public/readmi/1.PNG" width="200" height ="400" />
-  <img src="/public/readmi/2.PNG" width="200" />
-  <img src="/public/readmi/3.PNG" width="200" />
+  <img src="/public/readmi/2.PNG" width="200" height ="400" />
+  <img src="/public/readmi/3.PNG" width="200" height ="400" />
 </div>
 <div align="center">
-  <img src="/public/readmi/4.PNG" width="200" />
-  <img src="/public/readmi/5.PNG" width="200" />
-  <img src="/public/readmi/6.PNG" width="200" />
+  <img src="/public/readmi/4.PNG" width="200" height ="400"/>
+  <img src="/public/readmi/5.PNG" width="200" height ="400"/>
+  <img src="/public/readmi/6.PNG" width="200" height ="400" />
 </div>
 <div align="center">
-  <img src="/public/readmi/7.PNG" width="200" />
-  <img src="/public/readmi/8.PNG" width="200" />
-  <img src="/public/readmi/9.PNG" width="200" />
+  <img src="/public/readmi/7.PNG" width="200" height ="400"/>
+  <img src="/public/readmi/8.PNG" width="200" height ="400"/>
+  <img src="/public/readmi/9.PNG" width="200" height ="400"/>
 </div>
 <div align="center">
-  <img src="/public/readmi/10.PNG" width="200" />
+  <img src="/public/readmi/10.PNG" width="200" height ="400"/>
 </div>
 
 
